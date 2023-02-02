@@ -2,8 +2,10 @@ body {
   color: rgb(182, 242, 242);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif, Verdana, Geneva, Tahoma, sans-serif;
-  background-image: url(/blackJack/Images/istockphoto-453187915-612x612.jpg);
+ /* background-image: url(/blackJack/Images/istockphoto-453187915-612x612.jpg);
   background-size: cover;
+  */ 
+  background-color: #DBF9FC;	
   font-size: 24px;
   font-weight: bold;
   text-align: center;
